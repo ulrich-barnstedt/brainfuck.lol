@@ -1,3 +1,6 @@
+# **NOTE: This repo has been archived. See [brainfuck-master](https://github.com/ulrich-barnstedt/brainfuck-master)**
+
+
 #### NOTE: This code requires the future branch of `lci` to run. LOLCODE does NOT SUPPORT converting character codes therefore inputs and outputs are numbers only, inputing other values than number will break everything.
 
 ## Brainfuck.lol
